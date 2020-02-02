@@ -8,7 +8,7 @@
 
 ```
 
-![image.png](attachment:image.png) 
+![asset\image.png](attachment:image.png) 
 *let's see the* **equation**
  - python
   - numoy
